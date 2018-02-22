@@ -26,11 +26,7 @@ module.exports = {
     'no-restricted-syntax': [
       'error', 'WithStatement', 'BinaryExpression[operator=\'in\']'
     ],
-    'no-underscore-dangle': [
-      'error', {
-        enforceInMethodNames: true
-      }
-    ],
+    'no-underscore-dangle': 'off',
     'class-methods-use-this': 'off',
     'prefer-destructuring': 'off',
     'object-curly-newline': 'off',
