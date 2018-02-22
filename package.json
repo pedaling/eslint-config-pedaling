@@ -1,6 +1,6 @@
 {
   "name": "@pedaling/eslint-config-pedaling",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint configuration",
   "main": "index.js",
   "scripts": {
