@@ -22,6 +22,7 @@ module.exports = {
     }
   },
   rules: {
+    'no-console': 'off',
     'no-unused-expressions': ["error", { allowShortCircuit: true, allowTaggedTemplates: true }],
     'no-restricted-syntax': [
       'error', 'WithStatement', 'BinaryExpression[operator=\'in\']'
